@@ -37,3 +37,7 @@ During the implementation of this lab, several networking issues were identified
 
 ## Purpose
 The purpose of this lab is to practice enterprise-level networking concepts and improve routing, switching, subnetting, and network security configuration skills.
+
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4fdbc181-db95-45fe-aa9a-ea85354156b6" />
+
